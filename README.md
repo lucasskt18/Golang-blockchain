@@ -1,4 +1,4 @@
-# Golang-blockchain
+# Golang blockchain
 Blockchain in Go (Embryonic Application)
 
 This is a simple blockchain project implemented in Go. The application is embryonic and has been developed for educational purposes, providing a basic overview of how a blockchain works.
